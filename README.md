@@ -1,3 +1,6 @@
+<img width="1376" height="768" alt="Gemini_Generated_Image_x2bbgdx2bbgdx2bb" src="https://github.com/user-attachments/assets/4e4bc85e-116c-4ecb-81ff-a7c4b96f8fcb" />
+
+
 # 🤖 AI Resume Analyzer
 
 An AI-powered resume analyzer that evaluates resumes, provides ATS-based scoring, and suggests improvements to enhance job readiness and selection chances.
